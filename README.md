@@ -6,6 +6,6 @@ Esta es una aplicación para generar archivos que contienen las tablas de multip
 
 ejecutar este comando
 
-===========
+```
 npm install
-===========
+```
