@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Pkg que crea tablas de multiplicar en archivos txt.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akashic",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {}
+}
